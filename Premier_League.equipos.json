@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349444"
+  },
+  "id_equipo": 1,
+  "equipo": "Manchester United",
+  "ciudad": "Manchester",
+  "fecha_fundacion": "1902-04-24T00:00:00Z",
+  "entrenador": "Erik Ten Hag",
+  "titulos_de_liga": 20
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349445"
+  },
+  "id_equipo": 2,
+  "equipo": "Liverpool FC",
+  "ciudad": "Liverpool",
+  "fecha_fundacion": "1892-06-03T00:00:00Z",
+  "entrenador": "Jurgen Klopp",
+  "titulos_de_liga": 19
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349446"
+  },
+  "id_equipo": 3,
+  "equipo": "Arsenal FC",
+  "ciudad": "Londres",
+  "fecha_fundacion": "1886-12-01T00:00:00Z",
+  "entrenador": "Mikel Arteta",
+  "titulos_de_liga": 13
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349447"
+  },
+  "id_equipo": 4,
+  "equipo": "Manchester City",
+  "ciudad": "Manchester",
+  "fecha_fundacion": "1894-04-16T00:00:00Z",
+  "entrenador": "Josep Cuardiola",
+  "titulos_de_liga": 9
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349448"
+  },
+  "id_equipo": 5,
+  "equipo": "Everton",
+  "ciudad": "Liverpool",
+  "fecha_fundacion": "1878-01-01T00:00:00Z",
+  "entrenador": "Sean Dyche",
+  "titulos_de_liga": 9
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349449"
+  },
+  "id_equipo": 6,
+  "equipo": "Aston Villa",
+  "ciudad": "Birmingham",
+  "fecha_fundacion": "1874-11-21T00:00:00Z",
+  "entrenador": "Unai Emery",
+  "titulos_de_liga": 7
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d634944a"
+  },
+  "id_equipo": 7,
+  "equipo": "Chelsea FC",
+  "ciudad": "Londres",
+  "fecha_fundacion": "1905-03-10T00:00:00Z",
+  "entrenador": "Mauricio Pochettino",
+  "titulos_de_liga": 6
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d634944b"
+  },
+  "id_equipo": 8,
+  "equipo": "Newcastle United",
+  "ciudad": "Newcastle",
+  "fecha_fundacion": "1892-12-09T00:00:00Z",
+  "entrenador": "Edward Howe",
+  "titulos_de_liga": 4
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d634944c"
+  },
+  "id_equipo": 9,
+  "equipo": "Wolverhampton Wanderers",
+  "ciudad": "Wolverhampton",
+  "fecha_fundacion": "1877-05-27T00:00:00Z",
+  "entrenador": "Gary O´Neil",
+  "titulos_de_liga": 3
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d634944d"
+  },
+  "id_equipo": 10,
+  "equipo": "Tottenham Hotspur",
+  "ciudad": "Londres",
+  "fecha_fundacion": "1882-09-05T00:00:00Z",
+  "entrenador": "Ange Postecoglou",
+  "titulos_de_liga": 2
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d634944e"
+  },
+  "id_equipo": 11,
+  "equipo": "Burnley FC",
+  "ciudad": "Burnley",
+  "fecha_fundacion": "1882-05-18T00:00:00Z",
+  "entrenador": "Vincent Kompany",
+  "titulos_de_liga": 2
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d634944f"
+  },
+  "id_equipo": 12,
+  "equipo": "Sheffield United",
+  "ciudad": "Sheffield",
+  "fecha_fundacion": "1889-03-22T00:00:00Z",
+  "entrenador": "Christhoper Wilder",
+  "titulos_de_liga": 1
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349450"
+  },
+  "id_equipo": 13,
+  "equipo": "Nottingham Forest",
+  "ciudad": "Nottingham",
+  "fecha_fundacion": "1865-10-28T00:00:00Z",
+  "entrenador": "Nuno Espirito Santo",
+  "titulos_de_liga": 1
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349451"
+  },
+  "id_equipo": 14,
+  "equipo": "Brighton Hove & Albion FC",
+  "ciudad": "Brighton",
+  "fecha_fundacion": "1901-06-24T00:00:00Z",
+  "entrenador": "Roberto De Zerbi",
+  "titulos_de_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349452"
+  },
+  "id_equipo": 15,
+  "equipo": "West Ham United",
+  "ciudad": "Londres",
+  "fecha_fundacion": "1895-06-29T00:00:00Z",
+  "entrenador": "David Moyes",
+  "titulos_de_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349453"
+  },
+  "id_equipo": 16,
+  "equipo": "AFC Bournemouth",
+  "ciudad": "Bournemouth",
+  "fecha_fundacion": "1899-02-14T00:00:00Z",
+  "entrenador": "Andoni Iraola",
+  "titulos_de_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349454"
+  },
+  "id_equipo": 17,
+  "equipo": "Crystal Palace",
+  "ciudad": "Londres",
+  "fecha_fundacion": "1861-09-10T00:00:00Z",
+  "entrenador": "Oliver Glasner",
+  "titulos_de_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349455"
+  },
+  "id_equipo": 18,
+  "equipo": "Fullham FC",
+  "ciudad": "Londres",
+  "fecha_fundacion": "1879-03-06T00:00:00Z",
+  "entrenador": "Marco Silva",
+  "titulos_de_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349456"
+  },
+  "id_equipo": 19,
+  "equipo": "Brentford",
+  "ciudad": "Londres",
+  "fecha_fundacion": "1889-10-10T00:00:00Z",
+  "entrenador": "Thomas Frank",
+  "titulos_de_liga": 0
+},
+{
+  "_id": {
+    "$oid": "6653bcd4e2e55184d6349457"
+  },
+  "id_equipo": 20,
+  "equipo": "Luton Town FC",
+  "ciudad": "Luton",
+  "fecha_fundacion": "1885-04-11T00:00:00Z",
+  "entrenador": "Robert Edwards",
+  "titulos_de_liga": 0
+}]

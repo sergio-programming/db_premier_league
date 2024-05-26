@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634942c"
+  },
+  "id_resultado": 3701,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Fullham FC",
+  "equipo_visitante": "Manchester City",
+  "arbitro": "Paul Tierney"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634942d"
+  },
+  "id_resultado": 3702,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Everton",
+  "equipo_visitante": "Sheffield United",
+  "arbitro": "Simon Hooper"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634942e"
+  },
+  "id_resultado": 3703,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "West Ham United",
+  "equipo_visitante": "Luton Town FC",
+  "arbitro": "Andrew Madley"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634942f"
+  },
+  "id_resultado": 3704,
+  "fecha": "2024-105-11",
+  "jornada": 37,
+  "equipo_local": "AFC Bournemouth",
+  "equipo_visitante": "Brentford",
+  "arbitro": "Robert Jones"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349430"
+  },
+  "id_resultado": 3705,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Wolverhampton Wanderers",
+  "equipo_visitante": "Crystal Palace",
+  "arbitro": "Craig Pawson"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349431"
+  },
+  "id_resultado": 3706,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Tottenham Hotspur",
+  "equipo_visitante": "Burnley FC",
+  "arbitro": "Chris Kavanagh"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349432"
+  },
+  "id_resultado": 3707,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Newcastle United",
+  "equipo_visitante": "Brighton Hove & Albion FC",
+  "arbitro": "Stuart Atwell"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349433"
+  },
+  "id_resultado": 3708,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Nottingham Forest",
+  "equipo_visitante": "Chelsea FC",
+  "arbitro": "Samuel Barrott"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349434"
+  },
+  "id_resultado": 3709,
+  "fecha": "2024-05-12",
+  "jornada": 37,
+  "equipo_local": "Manchester United",
+  "equipo_visitante": "Arsenal FC",
+  "arbitro": "Michael Oliver"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349435"
+  },
+  "id_resultado": 3710,
+  "fecha": "2024-05-12",
+  "jornada": 37,
+  "equipo_local": "Aston Villa",
+  "equipo_visitante": "Liverpool FC",
+  "arbitro": "Anthony Taylor"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349436"
+  },
+  "id_resultado": 3801,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Liverpool FC",
+  "equipo_visitante": "Wolverhampton Wanderers",
+  "arbitro": "Paul Tierney"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349437"
+  },
+  "id_resultado": 3802,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Sheffield United",
+  "equipo_visitante": "Tottenham Hotspur",
+  "arbitro": "Simon Hooper"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349438"
+  },
+  "id_resultado": 3803,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Luton Town FC",
+  "equipo_visitante": "Fullham FC",
+  "arbitro": "Andrew Madley"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d6349439"
+  },
+  "id_resultado": 3804,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Brighton Hove & Albion FC",
+  "equipo_visitante": "Manchester United",
+  "arbitro": "Robert Jones"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634943a"
+  },
+  "id_resultado": 3805,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Manchester City",
+  "equipo_visitante": "West Ham United",
+  "arbitro": "Anthony Taylor"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634943b"
+  },
+  "id_resultado": 3806,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Arsenal FC",
+  "equipo_visitante": "Everton",
+  "arbitro": "Michael Oliver"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634943c"
+  },
+  "id_resultado": 3807,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Brentford",
+  "equipo_visitante": "Newcastle United",
+  "arbitro": "Craig Pawson"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634943d"
+  },
+  "id_resultado": 3808,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Crystal Palace",
+  "equipo_visitante": "Aston Villa",
+  "arbitro": "Chris Kavanagh"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634943e"
+  },
+  "id_resultado": 3809,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Burnley FC",
+  "equipo_visitante": "Nottingham Forest",
+  "arbitro": "Stuart Atwell"
+},
+{
+  "_id": {
+    "$oid": "6653bc4ae2e55184d634943f"
+  },
+  "id_resultado": 3810,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Chelsea FC",
+  "equipo_visitante": "AFC Bournemouth",
+  "arbitro": "Samuel Barrott"
+}]

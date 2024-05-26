@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b834"
+  },
+  "id_entrenador": 111,
+  "nombre_entrenador": "Josep Guardiola",
+  "edad": 53,
+  "estatura": 1.8,
+  "pais": "España",
+  "equipo": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b835"
+  },
+  "id_entrenador": 112,
+  "nombre_entrenador": "Jurgen Klopp",
+  "edad": 53,
+  "estatura": 1.94,
+  "pais": "Alemania",
+  "equipo": "Liverpool FC"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b836"
+  },
+  "id_entrenador": 113,
+  "nombre_entrenador": "Mikel Arteta",
+  "edad": 42,
+  "estatura": 1.75,
+  "pais": "España",
+  "equipo": "Arsenal FC"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b837"
+  },
+  "id_entrenador": 114,
+  "nombre_entrenador": "Unai Emery",
+  "edad": 52,
+  "estatura": 1.8,
+  "pais": "España",
+  "equipo": "Aston Villa"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b838"
+  },
+  "id_entrenador": 115,
+  "nombre_entrenador": "Ange Postecoglou",
+  "edad": 58,
+  "estatura": 1.8,
+  "pais": "Australia",
+  "equipo": "Tottenham Hotspur"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b839"
+  },
+  "id_entrenador": 116,
+  "nombre_entrenador": "Erik Ten Hag",
+  "edad": 54,
+  "estatura": 1.82,
+  "pais": "Paises Bajos",
+  "equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b83a"
+  },
+  "id_entrenador": 117,
+  "nombre_entrenador": "Mauricio Pochettino",
+  "edad": 52,
+  "estatura": 1.82,
+  "pais": "Argentina",
+  "equipo": "Chelsea FC"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b83b"
+  },
+  "id_entrenador": 118,
+  "nombre_entrenador": "Andoni Iraola",
+  "edad": 41,
+  "estatura": 1.81,
+  "pais": "España",
+  "equipo": "AFC Bournemouth"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b83c"
+  },
+  "id_entrenador": 119,
+  "nombre_entrenador": "David Moyes",
+  "edad": 61,
+  "estatura": 1.85,
+  "pais": "Escocia",
+  "equipo": "West Ham United"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b83d"
+  },
+  "id_entrenador": 120,
+  "nombre_entrenador": "Edward Howe",
+  "edad": 46,
+  "estatura": 1.8,
+  "pais": "Inglaterra",
+  "equipo": "Newcastle United"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b83e"
+  },
+  "id_entrenador": 121,
+  "nombre_entrenador": "Roberto De Zerbi",
+  "edad": 44,
+  "estatura": 1.79,
+  "pais": "Italia",
+  "equipo": "Brighton Hove & ALbion FC"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b83f"
+  },
+  "id_entrenador": 122,
+  "nombre_entrenador": "Oliver Glasner",
+  "edad": 49,
+  "estatura": 1.81,
+  "pais": "Austria",
+  "equipo": "Crystal Palace"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b840"
+  },
+  "id_entrenador": 123,
+  "nombre_entrenador": "Gary O'Neil",
+  "edad": 40,
+  "estatura": 1.73,
+  "pais": "Inglaterra",
+  "equipo": "Wolverhampton Wanderers"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b841"
+  },
+  "id_entrenador": 124,
+  "nombre_entrenador": "Marco Silva",
+  "edad": 46,
+  "estatura": 1.8,
+  "pais": "Portugal",
+  "equipo": "Fullham FC"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b842"
+  },
+  "id_entrenador": 125,
+  "nombre_entrenador": "Sean Dyche",
+  "edad": 52,
+  "estatura": 1.83,
+  "pais": "Inglaterra",
+  "equipo": "Everton"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b843"
+  },
+  "id_entrenador": 126,
+  "nombre_entrenador": "Thomas Frank",
+  "edad": 50,
+  "estatura": 1.79,
+  "pais": "Dinamarca",
+  "equipo": "Brentford"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b844"
+  },
+  "id_entrenador": 127,
+  "nombre_entrenador": "Nuno Espirito Santo",
+  "edad": 50,
+  "estatura": 1.88,
+  "pais": "Portugal",
+  "equipo": "Nottingham Forest"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b845"
+  },
+  "id_entrenador": 128,
+  "nombre_entrenador": "Robert Edwards",
+  "edad": 41,
+  "estatura": 1.85,
+  "pais": "Gales",
+  "equipo": "Luton Town FC"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b846"
+  },
+  "id_entrenador": 129,
+  "nombre_entrenador": "Vincent Kompany",
+  "edad": 38,
+  "estatura": 1.93,
+  "pais": "Belgica",
+  "equipo": "Burnley FC"
+},
+{
+  "_id": {
+    "$oid": "66534cf22e519d013b39b847"
+  },
+  "id_entrenador": 130,
+  "nombre_entrenador": "Christopher Wilder",
+  "edad": 56,
+  "estatura": 1.8,
+  "pais": "Inglaterra",
+  "equipo": "Sheffield United"
+}]

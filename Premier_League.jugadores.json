@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "6653bd25e2e55184d634945b"
+  },
+  "id_jugador": 44001,
+  "nombre_jugador": "Erling Halland",
+  "edad": 23,
+  "estatura": 1.94,
+  "pais": "Noruega",
+  "equipo": "Manchester City",
+  "estadisticas": {
+    "goles": 25,
+    "asistencias": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d634945c"
+  },
+  "id_jugador": 44002,
+  "nombre_jugador": "Cole Palmer",
+  "edad": 22,
+  "estatura": 1.89,
+  "pais": "Inglaterra",
+  "equipo": "Chelsea FC",
+  "estadisticas": {
+    "goles": 21,
+    "asistencias": 6
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d634945d"
+  },
+  "id_jugador": 44003,
+  "nombre_jugador": "Alexander Isak",
+  "edad": 24,
+  "estatura": 1.92,
+  "pais": "Suecia",
+  "equipo": "Newcastle United",
+  "estadisticas": {
+    "goles": 20,
+    "asistencias": 12
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d634945e"
+  },
+  "id_jugador": 44004,
+  "nombre_jugador": "Ollie Watkins",
+  "edad": 28,
+  "estatura": 1.8,
+  "pais": "Inglaterra",
+  "equipo": "Aston Villa",
+  "estadisticas": {
+    "goles": 19,
+    "asistencias": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d634945f"
+  },
+  "id_jugador": 44005,
+  "nombre_jugador": "Dominic Solanke",
+  "edad": 26,
+  "estatura": 1.88,
+  "pais": "Inglaterra",
+  "equipo": "AFC Bournemouth",
+  "estadisticas": {
+    "goles": 19,
+    "asistencias": 7
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349460"
+  },
+  "id_jugador": 44006,
+  "nombre_jugador": "Mohamed Salah",
+  "edad": 31,
+  "estatura": 1.75,
+  "pais": "Egipto",
+  "equipo": "Liverpool FC",
+  "estadisticas": {
+    "goles": 18,
+    "asistencias": 11
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349461"
+  },
+  "id_jugador": 44007,
+  "nombre_jugador": "Phil Foden",
+  "edad": 23,
+  "estatura": 1.71,
+  "pais": "Inglaterra",
+  "equipo": "Manchester City",
+  "estadisticas": {
+    "goles": 17,
+    "asistencias": 12
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349462"
+  },
+  "id_jugador": 44008,
+  "nombre_jugador": "Son Heung-min",
+  "edad": 31,
+  "estatura": 1.84,
+  "pais": "Corea del Sur",
+  "equipo": "Tottenham Hotspur",
+  "estadisticas": {
+    "goles": 17,
+    "asistencias": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349463"
+  },
+  "id_jugador": 44009,
+  "nombre_jugador": "Jarrod Bowen",
+  "edad": 27,
+  "estatura": 1.78,
+  "pais": "Inglaterra",
+  "equipo": "West Ham United",
+  "estadisticas": {
+    "goles": 16,
+    "asistencias": 6
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349464"
+  },
+  "id_jugador": 44010,
+  "nombre_jugador": "Bukayo Saka",
+  "edad": 22,
+  "estatura": 1.78,
+  "pais": "Inglaterra",
+  "equipo": "Arsenal FC",
+  "estadisticas": {
+    "goles": 16,
+    "asistencias": 10
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349465"
+  },
+  "id_jugador": 44011,
+  "nombre_jugador": "Nicolas Jackson",
+  "edad": 22,
+  "estatura": 1.86,
+  "pais": "Senegal",
+  "equipo": "Chelsea FC",
+  "estadisticas": {
+    "goles": 14,
+    "asistencias": 4
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349466"
+  },
+  "id_jugador": 44012,
+  "nombre_jugador": "Jean Phillipe Mateta",
+  "edad": 26,
+  "estatura": 1.92,
+  "pais": "Francia",
+  "equipo": "Crystal Palace",
+  "estadisticas": {
+    "goles": 13,
+    "asistencias": 6
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349467"
+  },
+  "id_jugador": 44013,
+  "nombre_jugador": "Hwang Hee-chan",
+  "edad": 28,
+  "estatura": 1.77,
+  "pais": "Coreal del Sur",
+  "equipo": "Wolverhampton Wanderers",
+  "estadisticas": {
+    "goles": 12,
+    "asistencias": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349468"
+  },
+  "id_jugador": 44014,
+  "nombre_jugador": "Matheus Cunha",
+  "edad": 24,
+  "estatura": 1.84,
+  "pais": "Brasil",
+  "equipo": "Wolverhampton Wanderers",
+  "estadisticas": {
+    "goles": 12,
+    "asistencias": 6
+  }
+},
+{
+  "_id": {
+    "$oid": "6653bd25e2e55184d6349469"
+  },
+  "id_jugador": 44015,
+  "nombre_jugador": "Kai Havertz",
+  "edad": 24,
+  "estatura": 1.93,
+  "pais": "Alemania",
+  "equipo": "Arsenal FC",
+  "estadisticas": {
+    "goles": 12,
+    "asistencias": 7
+  }
+}]

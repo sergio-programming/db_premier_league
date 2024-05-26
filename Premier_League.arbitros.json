@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b828"
+  },
+  "id_arbitro": 1201,
+  "nombre_arbitro": "Anthony Taylor",
+  "edad": 45,
+  "años_experiencia": 17,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 646
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b829"
+  },
+  "id_arbitro": 1202,
+  "nombre_arbitro": "Michael Oliver",
+  "edad": 39,
+  "años_experiencia": 11,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 418
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b82a"
+  },
+  "id_arbitro": 1203,
+  "nombre_arbitro": "Paul Tierney",
+  "edad": 43,
+  "años_experiencia": 13,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 494
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b82b"
+  },
+  "id_arbitro": 1204,
+  "nombre_arbitro": "Simon Hooper",
+  "edad": 46,
+  "años_experiencia": 15,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 550
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b82c"
+  },
+  "id_arbitro": 1205,
+  "nombre_arbitro": "Andrew Madley",
+  "edad": 45,
+  "años_experiencia": 15,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 570
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b82d"
+  },
+  "id_arbitro": 1206,
+  "nombre_arbitro": "Robert Jones",
+  "edad": 38,
+  "años_experiencia": 10,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 369
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b82e"
+  },
+  "id_arbitro": 1207,
+  "nombre_arbitro": "Craig Pawson",
+  "edad": 41,
+  "años_experiencia": 13,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 493
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b82f"
+  },
+  "id_arbitro": 1208,
+  "nombre_arbitro": "Chris Kavanagh",
+  "edad": 45,
+  "años_experiencia": 14,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 532
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b830"
+  },
+  "id_arbitro": 1209,
+  "nombre_arbitro": "Stuart Atwell",
+  "edad": 49,
+  "años_experiencia": 18,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 684
+},
+{
+  "_id": {
+    "$oid": "66534c8e2e519d013b39b831"
+  },
+  "id_arbitro": 1210,
+  "nombre_arbitro": "Samuel Barrott",
+  "edad": 44,
+  "años_experiencia": 14,
+  "certificaciones": [
+    "FIFA",
+    "UEFA"
+  ],
+  "partidos_arbitrados": 528
+}]

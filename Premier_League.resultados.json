@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634946c"
+  },
+  "id_resultado": 37101,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Fullham FC",
+  "equipo_visitante": "Manchester City",
+  "marcador_final": {
+    "local": 0,
+    "visitante": 4
+  },
+  "arbitro": "Paul Tierney"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634946d"
+  },
+  "id_resultado": 37102,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Everton",
+  "equipo_visitante": "Sheffield United",
+  "marcador_final": {
+    "local": 1,
+    "visitante": 0
+  },
+  "arbitro": "Simon Hooper"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634946e"
+  },
+  "id_resultado": 37103,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "West Ham United",
+  "equipo_visitante": "Luton Town FC",
+  "marcador_final": {
+    "local": 3,
+    "visitante": 1
+  },
+  "arbitro": "Andrew Madley"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634946f"
+  },
+  "id_resultado": 37104,
+  "fecha": "2024-105-11",
+  "jornada": 37,
+  "equipo_local": "AFC Bournemouth",
+  "equipo_visitante": "Brentford",
+  "marcador_final": {
+    "local": 1,
+    "visitante": 2
+  },
+  "arbitro": "Robert Jones"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349470"
+  },
+  "id_resultado": 37105,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Wolverhampton Wanderers",
+  "equipo_visitante": "Crystal Palace",
+  "marcador_final": {
+    "local": 1,
+    "visitante": 3
+  },
+  "arbitro": "Craig Pawson"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349471"
+  },
+  "id_resultado": 37106,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Tottenham Hotspur",
+  "equipo_visitante": "Burnley FC",
+  "marcador_final": {
+    "local": 2,
+    "visitante": 1
+  },
+  "arbitro": "Chris Kavanagh"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349472"
+  },
+  "id_resultado": 37107,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Newcastle United",
+  "equipo_visitante": "Brighton Hove & Albion FC",
+  "marcador_final": {
+    "local": 1,
+    "visitante": 1
+  },
+  "arbitro": "Stuart Atwell"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349473"
+  },
+  "id_resultado": 37108,
+  "fecha": "2024-05-11",
+  "jornada": 37,
+  "equipo_local": "Nottingham Forest",
+  "equipo_visitante": "Chelsea FC",
+  "marcador_final": {
+    "local": 2,
+    "visitante": 3
+  },
+  "arbitro": "Samuel Barrott"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349474"
+  },
+  "id_resultado": 37109,
+  "fecha": "2024-05-12",
+  "jornada": 37,
+  "equipo_local": "Manchester United",
+  "equipo_visitante": "Arsenal FC",
+  "marcador_final": {
+    "local": 0,
+    "visitante": 1
+  },
+  "arbitro": "Michael Oliver"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349475"
+  },
+  "id_resultado": 37110,
+  "fecha": "2024-05-12",
+  "jornada": 37,
+  "equipo_local": "Aston Villa",
+  "equipo_visitante": "Liverpool FC",
+  "marcador_final": {
+    "local": 3,
+    "visitante": 3
+  },
+  "arbitro": "Anthony Taylor"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349476"
+  },
+  "id_resultado": 38101,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Liverpool FC",
+  "equipo_visitante": "Wolverhampton Wanderers",
+  "marcador_final": {
+    "local": 2,
+    "visitante": 0
+  },
+  "arbitro": "Paul Tierney"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349477"
+  },
+  "id_resultado": 38102,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Sheffield United",
+  "equipo_visitante": "Tottenham Hotspur",
+  "marcador_final": {
+    "local": 0,
+    "visitante": 3
+  },
+  "arbitro": "Simon Hooper"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349478"
+  },
+  "id_resultado": 38103,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Luton Town FC",
+  "equipo_visitante": "Fullham FC",
+  "marcador_final": {
+    "local": 2,
+    "visitante": 4
+  },
+  "arbitro": "Andrew Madley"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d6349479"
+  },
+  "id_resultado": 38104,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Brighton Hove & Albion FC",
+  "equipo_visitante": "Manchester United",
+  "marcador_final": {
+    "local": 0,
+    "visitante": 2
+  },
+  "arbitro": "Robert Jones"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634947a"
+  },
+  "id_resultado": 38105,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Manchester City",
+  "equipo_visitante": "West Ham United",
+  "marcador_final": {
+    "local": 3,
+    "visitante": 1
+  },
+  "arbitro": "Anthony Taylor"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634947b"
+  },
+  "id_resultado": 38106,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Arsenal FC",
+  "equipo_visitante": "Everton",
+  "marcador_final": {
+    "local": 2,
+    "visitante": 1
+  },
+  "arbitro": "Michael Oliver"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634947c"
+  },
+  "id_resultado": 38107,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Brentford",
+  "equipo_visitante": "Newcastle United",
+  "marcador_final": {
+    "local": 2,
+    "visitante": 4
+  },
+  "arbitro": "Craig Pawson"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634947d"
+  },
+  "id_resultado": 38108,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Crystal Palace",
+  "equipo_visitante": "Aston Villa",
+  "marcador_final": {
+    "local": 5,
+    "visitante": 0
+  },
+  "arbitro": "Chris Kavanagh"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634947e"
+  },
+  "id_resultado": 38109,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Burnley FC",
+  "equipo_visitante": "Nottingham Forest",
+  "marcador_final": {
+    "local": 1,
+    "visitante": 2
+  },
+  "arbitro": "Stuart Atwell"
+},
+{
+  "_id": {
+    "$oid": "6653bd7de2e55184d634947f"
+  },
+  "id_resultado": 38110,
+  "fecha": "2024-05-19",
+  "jornada": 38,
+  "equipo_local": "Chelsea FC",
+  "equipo_visitante": "AFC Bournemouth",
+  "marcador_final": {
+    "local": 2,
+    "visitante": 1
+  },
+  "arbitro": "Samuel Barrott"
+}]
